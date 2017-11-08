@@ -1,0 +1,21 @@
+<snippet>
+    <content><![CDATA[
+#!/bin/bash
+#this script is used for $1
+#Author：$TM_FULLNAME
+#Path: $TM_FILEPATH
+
+#变量区
+
+#选项区
+
+#函数区
+
+#流程区
+
+echo "Done"
+]]></content>
+<tabTrigger>bash</tabTrigger>
+
+
+</snippet>

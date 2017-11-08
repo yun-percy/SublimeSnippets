@@ -1,0 +1,26 @@
+<snippet>
+    <content><![CDATA[
+#!/usr/bin/python
+#-*- coding:utf-8 -*-
+#Author：$TM_FULLNAME
+#Path: $TM_FILEPATH
+"""
+this script is used for $1
+"""
+#-----------------------导入模块-----------------------
+import sys
+
+#-----------------------模块设置-----------------------
+reload(sys)                      # reload 才能调用 setdefaultencoding 方法
+sys.setdefaultencoding('utf-8')  # 设置 'utf-8'
+#-----------------------静态变量-----------------------
+#-----------------------类-----------------------------
+#-----------------------函数区-------------------------
+def main():
+    pass
+#-----------------------流程区-------------------------
+if __name__ == '__main__':
+    main()
+]]></content>
+<tabTrigger>python</tabTrigger>
+</snippet>
