@@ -22,5 +22,7 @@ def main():
 if __name__ == '__main__':
     main()
 ]]></content>
-<tabTrigger>python</tabTrigger>
+    <tabTrigger>python</tabTrigger>
+    <scope>source.python</scope>
+    <description>python脚本初始化模板</description>
 </snippet>

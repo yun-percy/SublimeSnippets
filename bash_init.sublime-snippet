@@ -15,7 +15,7 @@
 
 echo "Done"
 ]]></content>
-<tabTrigger>bash</tabTrigger>
-
-
+    <tabTrigger>bash</tabTrigger>
+    <scope>source.shell</scope>
+    <description>bash脚本初始化模板</description>
 </snippet>
